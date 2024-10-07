@@ -1,6 +1,6 @@
-# AI-Powered SMS Chat Application
+# **AI-Powered SMS Chat Application**
 
-## Overview
+## **Overview**
 
 This application is an AI-powered SMS chat system that uses Plivo for SMS handling and OpenAI's GPT-3.5 for generating responses. It allows users to engage in conversations via SMS, with the AI providing contextual responses based on the conversation history.
 
